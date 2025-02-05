@@ -1,0 +1,15 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+:root {
+    --primary: #edf2f4;
+    --background:#09090b;
+    --secondary:#27272a
+  }
+  
+
+body{
+    background-color:var(--background);
+    color:#ffffff
+}
